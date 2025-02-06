@@ -1,0 +1,12 @@
+site_name: My Documentation
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Trading Strategies:
+      - Overview: trading-strategy.md
+      - Indicators: trading/indicators.md
+      - Risk Management: trading/risk-management.md
+  - AI Models:
+      - Training: ai/training.md
+      - Deployment: ai/deployment.md
